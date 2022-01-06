@@ -1,10 +1,9 @@
 # Ionic Angular Conference Application
 
-This application is purely a kitchen-sink demo of the Ionic Framework and Angular.
+This application is purely a kitchen-sink demo of the Ionic Framework and Angular. To test screeb Saas solution.
 
-**There is not an actual Ionic Conference at this time.** This project is just to show off Ionic components in a real-world application. Please go through the steps in [CONTRIBUTING](https://github.com/ionic-team/ionic-conference-app/blob/master/.github/CONTRIBUTING.md) before submitting an issue.
 
-## React and Vue Versions
+## Angular Versions
 
 We've built versions of this test app in Angular for developers that would prefer to use one of those framework options:
 
